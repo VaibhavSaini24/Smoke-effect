@@ -1,2 +1,2 @@
 # Smoke-effect
-We are usind a normal html and css
+This is the basic text effect of html and css
